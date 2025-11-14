@@ -13,14 +13,14 @@ I'm interested in and involved with:
 - Bitcoin
   <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/bitcoin.svg" width="16" height="16">
 
-Interested but ultra noob:
+Interested but noob:
 
 - Philosophy (specially Epistemology)
 - Economics
 - Cognition, Mind and the nature of Consciousness
 - anything evolutionary
 
-[(Definitely non-exhaustive) list of my favorite projects](https://github.com/stars/steinerkelvin/lists/fav).
+[(Non-exhaustive) list of my favorite projects](https://github.com/stars/steinerkelvin/lists/fav).
 
 [My dotfiles](https://github.com/steinerkelvin/dotfiles). And [some of my usual stack/tools](https://github.com/stars/steinerkelvin/lists/my-stack).
 
